@@ -1,4 +1,4 @@
-#This is simple EVENT BUS example for difficult cases to help store and send data from/to components
+# This is simple EVENT BUS example for difficult cases to help store and send data from/to components
 
 # Getting Started with Create React App
 
