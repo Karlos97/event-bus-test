@@ -1,3 +1,5 @@
+#This is simple EVENT BUS example for difficult cases to help store and send data from/to components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
