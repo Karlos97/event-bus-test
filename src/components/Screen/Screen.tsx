@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import eventBus from '../hooks/eventBusFunction';
+import eventBus from '../../helpers/hooks/eventBus';
 
 const Screen: React.FC<{ heading: any }> = ({ heading }) => {
   const [registerValue, setRegisterValue] = useState(0);

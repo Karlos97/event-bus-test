@@ -1,6 +1,6 @@
 import { useState } from 'react';
+import eventBus from '../../helpers/hooks/eventBus';
 import Button from '../button/Button';
-import eventBus from '../hooks/eventBusFunction';
 
 function IncrementingField() {
   const [regValue, setRegValue] = useState(0);
